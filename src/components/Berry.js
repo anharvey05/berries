@@ -2,7 +2,10 @@ import React from 'react';
 
 const Berry = () => {
     return (
-        <div>I am a berry!</div>
+        <div>
+           <div>I am a berry!</div>
+           <div>I am another berry!</div> 
+        </div>
     );
 };
 
